@@ -2,7 +2,7 @@
 Interactive LRU Cache Simulator built with HTML, CSS, and JavaScript to visualize how a Least Recently Used (LRU) Cache works.
 
 ->Features:
-Initialize Cache: Set the cache size to define its capacity.
+Initialize Cache: Set the cache size to define its capacity.   
 Insert Key-Value Pairs: Add new entries to the cache.
 Retrieve Values: Fetch values by providing keys. If the key is not in the cache, it returns a "not found" message.
 Real-Time Visualization: Displays the current state of the cache, including all stored key-value pairs.
